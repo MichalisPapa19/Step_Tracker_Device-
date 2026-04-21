@@ -13,6 +13,9 @@ The system combines:
 - Python-based algorithms for step detection
 
 
+<img width="392" height="544" alt="image" src="https://github.com/user-attachments/assets/e4ceb6f5-f1e9-4309-9cc0-a518e5c8c3c8" />
+
+
 ## ⚙️ Hardware Components
 
 - **PIC18F57Q43 Microcontroller**  
@@ -69,6 +72,11 @@ The algorithm includes:
 - 3D printed using **PLA**
 - Mounted using **Velcro straps**
 
+## 🎥 Youtube Video
+
+Watch the video here:  
+Part1: https://youtu.be/07Q1bYbAYtw?si=i-aQmg8YOO3xj2Fx
+Part2: https://youtu.be/hNOQP1DH3xc?si=X6_Hd6Prz1hhSjlo
 
 ## 🎓 Author
 Michail Papaioannou
